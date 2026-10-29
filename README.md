@@ -1,5 +1,3 @@
-# Bank_Customer_Churn_Project
-
 # 🏦 Bank Customer Churn Prediction & Retention System
 
 A machine learning-based web application that predicts bank customer churn risk and supports data-driven customer retention strategies.
